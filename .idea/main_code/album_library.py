@@ -27,7 +27,7 @@ albums = {"in rainbows": "'everyone' likes this",
           "disintegration": "bro and there are still zero goth baddies in your dms bro",
           "have a nice life":"988 Lifeline",
           "the velvet rope": "extremely based (you'll never guess)",
-          "getting killed": "im so sad this isn't niche anymore (just got into the band post album drop)",
+          "getting killed": "'im so sad this isn't niche anymore' (just got into the band post album drop)",
           "ziggy stardust": "easy to like this album and maskbeing bisexual",
           "lift yr skinny fists": "'this isnt a song this is an experience' ahh album",
           "souvlaki": "just because it isnt mbv doesnt mean its not basic",}
